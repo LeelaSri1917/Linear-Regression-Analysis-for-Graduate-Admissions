@@ -1,5 +1,7 @@
 # Linear-Regression-Analysis-for-Graduate-Admissions
 📌 Project Overview
+
+
    Jamboree Education recently launched a feature where students can check their probability of graduate admission into top universities.
 This project uses Linear Regression to analyze admission factors and predict the Chance of Admit based on student profiles (GRE, TOEFL, GPA, SOP, LOR, Research, etc.).
 
